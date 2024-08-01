@@ -10,10 +10,15 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 
 # Credits
 
-- Cindy Nemi and Aemiii91 for letting me include the `Dot-art by Yoshi-kun` icon pack on the official [nionOS theme repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
+- Cindy Nemi and Aemiii91 for letting me include the `Dot-art by Yoshi-kun` icon pack on the official [OnionOS theme repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
 - [Spriters-Resource](https://www.spriters-resource.com) for the Pokémon sprites
-- [Yuji Oshimoto](http://www.04.jp.org/) for the 04b_03 font
+- [Yuji Oshimoto](http://www.04.jp.org/) for the `04b_03` font
 - Pokémon Black/White 2 for the Virbank City OST
+
+# Important Notes
+
+- It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases))
+- Font color of the highlighted item on the WIFI configuration page, as well as the font in the keyboard pop-up when entering a WIFI password is currently *bugged* since those are set at the system-level and isn't something I can change
 
 # Screenshots
 
