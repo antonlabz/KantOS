@@ -19,7 +19,7 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 
 - It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases) or use the OTA feature within the Apps on your Miyoo Mini)
 - Font color of the highlighted item on the WIFI configuration page, as well as the font in the keyboard pop-up when entering a WIFI password is currently *bugged* since those are set at the system-level and isn't something I can change
-- **In case you have any theme overrides set**, I recommend that you enable the `battery percentage` option for best UI experience if not already enabled
+- **In case you have any theme overrides set**, I recommend that you enable the `battery percentage` option for best UI experience if not already enabled (via `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage` & set to Visible)
 
 # Download
 
