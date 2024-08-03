@@ -41,11 +41,23 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
 - Apply the theme by going to `Apps > Themes` and selecting it
 
+# What is the difference between `Ver. A` and `Ver. B`?
+
+`Ver. A` is the original design concept based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are minimal icons.
+
+`Ver. B` is a more overworld-focused theme, and has transformed the 3 aforementioned minimal icons to overworld variants.
+
+Please see the next section which showcases both.
 
 # Screenshots
 
-#### Home Screen (GIF)
-![home](https://github.com/user-attachments/assets/45396bda-e33b-42da-a352-2ceb3a1e04e4)
+#### Version A
+
+![original](https://github.com/user-attachments/assets/f01a8aea-fd6a-4de7-85e6-4ca79a168bbe)
+
+#### Version B
+
+![overworld](https://github.com/user-attachments/assets/99e8d3f5-b592-4a6b-ae71-2e05cc8a5a9c)
 
 #### Settings
 ![settings](https://github.com/user-attachments/assets/027e7bcd-edc4-44dc-b3db-cad3d9a01620)
