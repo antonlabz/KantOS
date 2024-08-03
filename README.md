@@ -13,7 +13,7 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 - *Aemiii91* for letting me include their `Dot-art by Yoshi-kun` icon pack from the [Onion Theme Repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
 - [Spriters-Resource](https://www.spriters-resource.com) for the Pokémon sprites
 - [Yuji Oshimoto](http://www.04.jp.org/) for the `04b_03` font
-- Pokémon Black/White 2 for the Virbank City OST
+- Pokémon Black/White 2 for the Virbank City OST used as BGM
 
 # Important Notes
 
