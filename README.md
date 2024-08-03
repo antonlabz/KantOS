@@ -53,7 +53,7 @@ Please see the next section which showcases both.
 
 #### Version A
 
-![original](https://github.com/user-attachments/assets/f01a8aea-fd6a-4de7-85e6-4ca79a168bbe)
+![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
 
 #### Version B
 
