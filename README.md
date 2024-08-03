@@ -10,7 +10,7 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 
 # Credits
 
-- *Aemiii91* for letting me include their `Dot-art by Yoshi-kun` icon pack on the official [Onion Theme Repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
+- *Aemiii91* for letting me include their `Dot-art by Yoshi-kun` icon pack from the [Onion Theme Repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
 - [Spriters-Resource](https://www.spriters-resource.com) for the Pokémon sprites
 - [Yuji Oshimoto](http://www.04.jp.org/) for the `04b_03` font
 - Pokémon Black/White 2 for the Virbank City OST
@@ -18,8 +18,19 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 # Important Notes
 
 - It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases) or use the OTA feature within the Apps on your Miyoo Mini)
-- Font color of the highlighted item on the WIFI configuration page, as well as the font in the keyboard pop-up when entering a WIFI password is currently *bugged* since those are set at the system-level and isn't something I can change
-- **In case you have any theme overrides set**, I recommend that you enable the `battery percentage` option for best UI experience if not already enabled (via `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage` & set to Visible)
+- On the wifi configuration page, the font color of the highlighted item as well as the font in the keyboard pop-up when you go to enter a wifi password are both *bugged*, since those appear to be set at the system-level and isn't something I can change through the config file
+- **In case you have any existing theme overrides**, I recommend that you enable the `battery percentage` option with the following settings to replicate what's been set in the config file for the best UI experience:
+
+Go to `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage`
+
+```json
+"Visible": set to "-" (the theme config will turn it on by default)
+"Font family": set to 'Exo-2-Bold-Italic_Universal'
+"Font size": 18 px
+"Text alignment": Left
+"Fixed position": off
+"Horizontal/Vertical offset": both set to 0 or off
+```
 
 # Download
 
@@ -30,10 +41,11 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
 - Apply the theme by going to `Apps > Themes` and selecting it
 
+
 # Screenshots
 
 #### Home Screen (GIF)
-![home](https://github.com/user-attachments/assets/b2126574-0733-46f9-ab79-6fd8a78f2871)
+![home](https://github.com/user-attachments/assets/45396bda-e33b-42da-a352-2ceb3a1e04e4)
 
 #### Settings
 ![settings](https://github.com/user-attachments/assets/027e7bcd-edc4-44dc-b3db-cad3d9a01620)
