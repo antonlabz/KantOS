@@ -2,7 +2,7 @@
 
 # About
 
-KantOS is a theme ported for OnionOS, which is inspired by the Kanto region of Pokémon. It was built using a combination of custom and original sprites from the GBA Pokémon games.
+KantOS is a theme ported for OnionOS, which is inspired by the Kanto region of Pokémon.
 
 The concept design was first created by [Tressley on muOS](https://github.com/Tressley/KantOS/tree/main) for the Anbernic handheld devices. I was a huge fan of it, and I'd like to express my appreciation to Tressley for creating the theme and also giving me permission to port it to OnionOS.
 
