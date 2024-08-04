@@ -4,9 +4,9 @@
 
 KantOS is a theme ported for OnionOS, which is inspired by the Kanto region of Pokémon.
 
-The concept design was first created by [Tressley on muOS](https://github.com/Tressley/KantOS/tree/main) for the Anbernic handheld devices. I was a huge fan of it, and I'd like to express my appreciation to Tressley for creating the theme and also giving me permission to port it to OnionOS.
+The concept design was first created by [Tressley on muOS](https://github.com/Tressley/KantOS/tree/main) for the Anbernic handheld devices. 
 
-I have since heavily modified it to suit the vastly-different OnionOS architecture, and have included many of my own additions to the theme.
+I was a huge fan of it, and I'd like to express my appreciation to Tressley for creating the theme and also giving me permission to port it to OnionOS which I have since heavily modified to suit the OnionOS architecture, and also included many of my own additions.
 
 # Credits
 
@@ -17,7 +17,7 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 
 # Important Notes
 
-- It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases) or use the OTA feature within the Apps on your Miyoo Mini)
+- It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases) or use the OTA feature within `Apps` on your Miyoo Mini)
 - On the wifi configuration page, the font color of the highlighted item as well as the font in the keyboard pop-up when you go to enter a wifi password are both *bugged*, since those appear to be set at the system-level and isn't something I can change through the config file
 - **In case you have any existing theme overrides**, I recommend that you enable the `battery percentage` option with the following settings to replicate what's been set in the config file for the best UI experience:
 
@@ -41,17 +41,17 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
 - Apply the theme by going to `Apps > Themes` and selecting it
 
-# What is the difference between `Ver. A` and `Ver. B`?
+# How is `Ver. B` different?
 
-`Ver. A` is the original design concept based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are minimal icons.
+The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more 'material' minimal icons.
 
-`Ver. B` is a more overworld-focused theme, and has transformed the 3 aforementioned minimal icons to overworld variants.
+`Ver. B` is a an overworld-focused theme which changes the icons for `Expert`, `Apps` & `Settings` to overworld elements, in order to match the aesthetic of the buildings.
 
 Please see the next section which showcases both.
 
 # Screenshots
 
-#### Version A
+#### Original
 
 ![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
 
