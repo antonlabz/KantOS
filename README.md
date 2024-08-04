@@ -39,11 +39,11 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 # Installation
 
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
-- Apply the theme by going to `Apps > Themes` and selecting it
+- Apply the theme by going to `Apps > Themes` 
 
 # How is `Ver. B` different?
 
-The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more 'material' minimal icons.
+The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more minimal 'material' icons.
 
 `Ver. B` is a an overworld-focused theme which changes the icons for `Expert`, `Apps` & `Settings` to overworld elements, in order to match the aesthetic of the buildings.
 
