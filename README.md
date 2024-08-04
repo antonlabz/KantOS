@@ -2,7 +2,7 @@
 
 # About
 
-KantOS is a theme ported for OnionOS, which is inspired by the Kanto region of Pokémon. It was built using a combination of custom and original sprites from the GBA Pokémon games.
+KantOS is a theme ported for OnionOS, which is inspired by the Kanto region of Pokémon.
 
 The concept design was first created by [Tressley on muOS](https://github.com/Tressley/KantOS/tree/main) for the Anbernic handheld devices. I was a huge fan of it, and I'd like to express my appreciation to Tressley for creating the theme and also giving me permission to port it to OnionOS.
 
@@ -13,7 +13,7 @@ I have since heavily modified it to suit the vastly-different OnionOS architectu
 - *Aemiii91* for letting me include their `Dot-art by Yoshi-kun` icon pack from the [Onion Theme Repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
 - [Spriters-Resource](https://www.spriters-resource.com) for the Pokémon sprites
 - [Yuji Oshimoto](http://www.04.jp.org/) for the `04b_03` font
-- Pokémon Black/White 2 for the Virbank City OST
+- Pokémon Black/White 2 for the Virbank City OST used as BGM
 
 # Important Notes
 
@@ -41,11 +41,23 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
 - Apply the theme by going to `Apps > Themes` and selecting it
 
+# What is the difference between `Ver. A` and `Ver. B`?
+
+`Ver. A` is the original design concept based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are minimal icons.
+
+`Ver. B` is a more overworld-focused theme, and has transformed the 3 aforementioned minimal icons to overworld variants.
+
+Please see the next section which showcases both.
 
 # Screenshots
 
-#### Home Screen (GIF)
-![home](https://github.com/user-attachments/assets/45396bda-e33b-42da-a352-2ceb3a1e04e4)
+#### Version A
+
+![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
+
+#### Version B
+
+![overworld](https://github.com/user-attachments/assets/99e8d3f5-b592-4a6b-ae71-2e05cc8a5a9c)
 
 #### Settings
 ![settings](https://github.com/user-attachments/assets/027e7bcd-edc4-44dc-b3db-cad3d9a01620)
