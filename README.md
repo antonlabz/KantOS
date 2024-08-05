@@ -34,7 +34,7 @@ Go to `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage`
 
 # Download
 
-You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/KantOS/releases) page.
+Go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and download the `Source code (zip)` file.
 
 # Installation
 
