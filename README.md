@@ -38,9 +38,18 @@ You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/
 
 # Installation
 
-- Place the downloaded ZIP file into the `Themes` folder of your SD card
-- Apply the theme by going to `Apps > Themes` 
+**To install the default theme:**
 
+- Place the downloaded ZIP file into the `Themes` folder of your SD card
+- Apply the theme by going to `Apps > Themes`
+
+**To install the alt version:**
+
+- Extract the downloaded ZIP file
+- Copy the images instead the `alt-skin` folder
+- Past them into the `skin` folder to replace the existing ones
+- Place the entire folder into the `Themes` folder of your SD card and apply the theme
+  
 # How is the alt version different?
 
 The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more minimal 'material' icons.
