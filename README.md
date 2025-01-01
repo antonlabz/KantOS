@@ -46,7 +46,7 @@ Go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and down
 **To install the alt version:**
 
 - Extract the downloaded ZIP file
-- Copy the images instead the `alt-skin` folder
+- Copy the images inside the `alt-skin` folder
 - Past them into the `skin` folder to replace the existing ones
 - Place the entire folder into the `Themes` folder of your SD card and apply the theme
   
