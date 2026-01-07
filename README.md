@@ -34,28 +34,37 @@ Go to `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage`
 
 # Download
 
-You can find the latest ZIP file on the [Releases](https://github.com/antonlabz/KantOS/releases) page.
+Go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and download the `Source code (zip)` file.
 
 # Installation
 
-- Place the downloaded ZIP file into the `Themes` folder of your SD card
-- Apply the theme by going to `Apps > Themes` 
+**To install the default theme:**
 
-# How is `Ver. B` different?
+- Place the downloaded ZIP file into the `Themes` folder of your SD card
+- Apply the theme by going to `Apps > Themes`
+
+**To install the alt version:**
+
+- Extract the downloaded ZIP file
+- Copy the images inside the `alt-skin` folder
+- Past them into the `skin` folder to replace the existing ones
+- Place the entire folder into the `Themes` folder of your SD card and apply the theme
+  
+# How is the alt version different?
 
 The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more minimal 'material' icons.
 
-`Ver. B` is a an overworld-focused theme which changes the icons for `Expert`, `Apps` & `Settings` to overworld elements, in order to match the aesthetic of the buildings.
+The alt version replaces the icons for `Expert`, `Apps` & `Settings` to overworld elements, in order to match the aesthetic of the buildings.
 
 Please see the next section which showcases both.
 
 # Screenshots
 
-#### Original
+#### Default
 
 ![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
 
-#### Version B
+#### Alt Version
 
 ![overworld](https://github.com/user-attachments/assets/99e8d3f5-b592-4a6b-ae71-2e05cc8a5a9c)
 
