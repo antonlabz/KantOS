@@ -13,12 +13,13 @@ I was a huge fan of it, and I'd like to express my appreciation to Tressley for 
 - *Aemiii91* for letting me include their `Dot-art by Yoshi-kun` icon pack from the [Onion Theme Repo](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md)
 - [Spriters-Resource](https://www.spriters-resource.com) for the Pokémon sprites
 - [Yuji Oshimoto](http://www.04.jp.org/) for the `04b_03` font
-- Pokémon Black/White 2 for the Virbank City OST used as BGM
+- Pokemon Gen 1 Pallet Town OST used as BGM
+  - Pokémon Black/White 2 for the Virbank City OST used as alternative BGM
 
 # Important Notes
 
 - It is ***highly*** recommended to update your OnionOS to at least `v4.3.1-1` or higher, as it removes the text-shadow effect that's present on earlier versions which is incompatible with the font used here (see the [OnionOS Releases page](https://github.com/OnionUI/Onion/releases) or use the OTA feature within `Apps` on your Miyoo Mini)
-- On the wifi configuration page, the font color of the highlighted item as well as the font in the keyboard pop-up when you go to enter a wifi password are both *bugged*, since those appear to be set at the system-level and isn't something I can change through the config file
+- On the wifi configuration page, the font color of the highlighted item as well and the text in the keyboard pop-up when you go to enter a wifi password are both *bugged*, since those appear to be set at the system-level and isn't something I can change through the theme's config file
 - **In case you have any existing theme overrides**, I recommend that you enable the `battery percentage` option with the following settings to replicate what's been set in the config file for the best UI experience:
 
 Go to `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage`
@@ -34,7 +35,9 @@ Go to `Apps > Tweaks > Appearance > Theme overrides > Battery Percentage`
 
 # Download
 
-Go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and download the `Source code (zip)` file.
+Download this repository as a ZIP file (via the green `<> Code` button in the top-right > `Download ZIP`)
+
+Alternatively, go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and download the `Source code (zip)` file.
 
 # Installation
 
@@ -43,30 +46,30 @@ Go to the [Releases](https://github.com/antonlabz/KantOS/releases) page and down
 - Place the downloaded ZIP file into the `Themes` folder of your SD card
 - Apply the theme by going to `Apps > Themes`
 
-**To install the alt version:**
+**To install the minimal version:**
 
 - Extract the downloaded ZIP file
-- Copy the images inside the `alt-skin` folder
-- Past them into the `skin` folder to replace the existing ones
-- Place the entire folder into the `Themes` folder of your SD card and apply the theme
+- Copy the images inside the `minimal-alt` folder
+- Paste them into the `skin` folder to replace the existing images
+- Place the entire theme folder into the `Themes` folder of your SD card and apply the theme
   
-# How is the alt version different?
+# How is the minimal version different?
 
-The original design is based off the muOS theme which has the 3 primary menus as buildings, while the remaining menus are more minimal 'material' icons.
+The base design of this theme is my own rendition which includes more overworld elements as menu icons.
 
-The alt version replaces the icons for `Expert`, `Apps` & `Settings` to overworld elements, in order to match the aesthetic of the buildings.
+The minimal version replaces the icons for `Expert`, `Apps` & `Settings` to match the same aesthetic as the original muOS theme for Anbernic.
 
 Please see the next section which showcases both.
 
 # Screenshots
 
-#### Default
-
-![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
-
-#### Alt Version
+#### Default Version
 
 ![overworld](https://github.com/user-attachments/assets/99e8d3f5-b592-4a6b-ae71-2e05cc8a5a9c)
+
+#### Minimal Version
+
+![original](https://github.com/user-attachments/assets/84aa3e1a-4059-471a-aba8-28ef43c0eca6)
 
 #### Settings
 ![settings](https://github.com/user-attachments/assets/027e7bcd-edc4-44dc-b3db-cad3d9a01620)
