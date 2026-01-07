@@ -52,6 +52,15 @@ Alternatively, go to the [Releases](https://github.com/antonlabz/KantOS/releases
 - Copy the images inside the `minimal-alt` folder
 - Paste them into the `skin` folder to replace the existing images
 - Place the entire theme folder into the `Themes` folder of your SD card and apply the theme
+
+# Changing the BGM
+
+The default BGM is the Gen 1 Pallet Town OST, but the file for Virbank City OST has also been included.
+
+- To change the BGM, go to the `sound` folder, rename the existing `bgm.mp3` to something else, then rename the virbank city file to `bgm.mp3`
+- Re-install the theme
+
+You can include your own custom BGM by following the same instructions above, however it's important that the audio sample rate is set to 48kHz or it will sound too fast/slow.
   
 # How is the minimal version different?
 
