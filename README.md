@@ -60,7 +60,7 @@ The default BGM is the Gen 1 Pallet Town OST, but the file for Virbank City OST 
 - To change the BGM, go to the `sound` folder, rename the existing `bgm.mp3` to something else, then rename the virbank city file to `bgm.mp3`
 - Re-install the theme
 
-You can include your own custom BGM by following the same instructions above, however it's important that the audio sample rate is set to 48kHz or it will sound too fast/slow.
+You can include your own custom BGM by following the same instructions above with any MP3 file, however it's important that the audio sample rate is set to 48kHz or it will sound too fast/slow.
   
 # How is the minimal version different?
 
